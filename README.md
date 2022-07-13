@@ -1,4 +1,5 @@
 # Welcome to Remix!
+Full Credits to https://github.com/mariusespejo/remix-ghibli for boilerplate.
 
 - [Remix Docs](https://remix.run/docs)
 
