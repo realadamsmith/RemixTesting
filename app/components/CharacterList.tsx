@@ -6,7 +6,7 @@ type CharacterListProps = {
 };
 export default function CharacterList({ characters }: CharacterListProps) {
   return (
-    <div className="flex-1 max-w-md">
+    <div className="flex-1 max-w-md ml-10">
       <h3 className="text-3xl">Characters</h3>
 
       <ul className="flex flex-col space-y-3 my-3">
